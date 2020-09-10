@@ -2305,7 +2305,7 @@ blockquote-title {
 }
 
 .off-canvas-wrapper .btn-close:hover {
-	color: #f2b636;
+	color: #e71883;
 }
 
 .off-canvas-wrapper .off-canvas-inner {
@@ -2370,7 +2370,7 @@ blockquote-title {
 }
 
 .off-canvas-wrapper.aside-menu .off-canvas-inner .off-canvas-content .close-action .btn-close:hover {
-	color: #f2b636;
+	color: #e71883;
 }
 
 .off-canvas-wrapper.aside-menu.active .off-canvas-inner .off-canvas-content {
@@ -8521,8 +8521,6 @@ blockquote-title {
 
 @media only screen and (min-width: 768px) and (max-width: 991.98px) {
 	.freelancer-hero-content h2 {
-		font-size: 80px;
-		letter-spacing: 20px;
 	}
 }
 
