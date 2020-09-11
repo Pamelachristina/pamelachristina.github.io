@@ -5622,6 +5622,12 @@ blockquote-title {
 	transition: .4s;
 }
 
+.portfolio-item__info .description {
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+}
+
 .portfolio-item__info .title {
 	font-size: 16px;
 	line-height: 1;
