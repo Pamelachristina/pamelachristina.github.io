@@ -392,6 +392,19 @@ button:focus {
 	letter-spacing: 1.75px;
 }
 
+.btn-bordered-small {
+	border: 3px solid #e71883;
+	border-radius: 50px;
+	color: #182141;
+	display: inline-block;
+	font-size: .875rem;
+	font-weight: 700;
+	line-height: 1;
+	text-transform: uppercase;
+	padding: 5px 10px;
+	letter-spacing: 1.75px;
+}
+
 @media only screen and (max-width: 767.98px) {
 	.btn-bordered {
 		padding: 15px 25px;
@@ -399,6 +412,11 @@ button:focus {
 }
 
 .btn-bordered:hover {
+	background-color: #e71883;
+	color: #fff;
+}
+
+.btn-bordered-small:hover {
 	background-color: #e71883;
 	color: #fff;
 }
@@ -5591,7 +5609,7 @@ blockquote-title {
 }
 
 .portfolio-item:before {
-	background-color: rgba(231, 24, 131, .95);
+	background-color: rgba(248, 228, 6, 0.934);
 	content: '';
 	position: absolute;
 	left: 0;
@@ -5624,7 +5642,7 @@ blockquote-title {
 
 .portfolio-item__info .description {
 	text-align: center;
-	color: #fff;
+	color: #182141;
 	padding: 20px;
 }
 
@@ -5643,7 +5661,7 @@ blockquote-title {
 }
 
 .portfolio-item__info .title a {
-	color: #f2b636;
+	color:  #e71883;
 }
 
 .portfolio-item__info .category {

@@ -504,6 +504,8 @@ button:focus {
     letter-spacing: 1.75px;
 }
 
+
+
 @media only screen and (max-width: 767.98px) {
     .btn-bordered {
         padding: 15px 25px;
@@ -514,6 +516,7 @@ button:focus {
     background-color: #f2b636;
     color: #FFFFFF;
 }
+
 
 .btn-secondary {
     border: 3px solid #182141;
